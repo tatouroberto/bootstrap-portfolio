@@ -1,0 +1,12 @@
+.footer {
+    background-color: #6070ff;
+    background-image: url("img/contact-form.png");
+    background-size: 100% !important;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 6%;
+    padding-bottom: 8%;
+    border-radius: 100px 0 0 0;
+    text-align: center;
+    margin-top: 5%;
+  }
