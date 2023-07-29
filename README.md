@@ -90,7 +90,7 @@ Clone this repository to your desired folder:-
 Run this commands:
 ```sh
 cd my-folder
-git clone git@github.com:VivekRaaZ/bootstrap.git
+git clone git@github.com:tatouroberto/bootstrap-portfolio.git
 ```
 
 ### Install
@@ -130,6 +130,13 @@ You can deploy this project using: github, VS Code
 - GitHub: [@githubhandle](https://github.com/VivekRaaZ?tab=repositories)
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
+
+👤 **TATOU ROBERTO**
+
+
+- GitHub: [@tatouroberto](https://github.com/tatouroberto)
+- Twitter: [@Tatou_rob](https://twitter.com/Tatou_rob)
+- LinkedIn: [tatou-roberto-496b1413b](https://www.linkedin.com/in/tatou-roberto-496b1413b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
